@@ -1,0 +1,26 @@
+[
+    {
+        "identificacion": "1712345678",
+        "nombre": "Carlos Cedeno",
+        "direccion": "Av. Amazonas y Rio Napo",
+        "usuario": "ccedeno",
+        "contrasena": "deliv2026",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1700000001",
+        "nombre": "Administrador",
+        "direccion": "Local principal",
+        "usuario": "admin",
+        "contrasena": "admin789",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "1705554433",
+        "nombre": "Repartidor Principal",
+        "direccion": "Local principal",
+        "usuario": "repartidor1",
+        "contrasena": "envio2026",
+        "rol": "Empleado"
+    }
+]

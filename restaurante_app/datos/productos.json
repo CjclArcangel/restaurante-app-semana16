@@ -1,0 +1,34 @@
+[
+    {
+        "codigo": "D01",
+        "nombre": "Hamburguesa clasica",
+        "precio": 4.5,
+        "categoria": "RAPIDO",
+        "unidad_medida": "PORCION",
+        "stock": 10
+    },
+    {
+        "codigo": "D02",
+        "nombre": "Sopa del dia",
+        "precio": 3.0,
+        "categoria": "CALIENTE",
+        "unidad_medida": "PORCION",
+        "stock": 7
+    },
+    {
+        "codigo": "D03",
+        "nombre": "Ensalada fria",
+        "precio": 3.5,
+        "categoria": "FRIO",
+        "unidad_medida": "PORCION",
+        "stock": 6
+    },
+    {
+        "codigo": "D04",
+        "nombre": "Combo familiar",
+        "precio": 12.0,
+        "categoria": "COMBO",
+        "unidad_medida": "UNIDAD",
+        "stock": 4
+    }
+]
